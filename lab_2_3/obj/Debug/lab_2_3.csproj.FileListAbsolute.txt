@@ -1,0 +1,6 @@
+C:\Users\37544\Desktop\Work\053505\isp\lab_2\lab_2_3\obj\Debug\lab_2_3.csprojAssemblyReference.cache
+C:\Users\37544\Desktop\Work\053505\isp\lab_2\lab_2_3\obj\Debug\lab_2_3.csproj.CoreCompileInputs.cache
+C:\Users\37544\Desktop\Work\053505\isp\lab_2\lab_2_3\bin\Debug\lab_2_3.exe
+C:\Users\37544\Desktop\Work\053505\isp\lab_2\lab_2_3\bin\Debug\lab_2_3.pdb
+C:\Users\37544\Desktop\Work\053505\isp\lab_2\lab_2_3\obj\Debug\lab_2_3.exe
+C:\Users\37544\Desktop\Work\053505\isp\lab_2\lab_2_3\obj\Debug\lab_2_3.pdb

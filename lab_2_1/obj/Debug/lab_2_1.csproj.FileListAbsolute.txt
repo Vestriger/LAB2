@@ -1,0 +1,6 @@
+C:\Users\37544\Desktop\Work\053505\isp\lab_2\lab_2_1\bin\Debug\lab_2_1.exe
+C:\Users\37544\Desktop\Work\053505\isp\lab_2\lab_2_1\bin\Debug\lab_2_1.pdb
+C:\Users\37544\Desktop\Work\053505\isp\lab_2\lab_2_1\obj\Debug\lab_2_1.csprojAssemblyReference.cache
+C:\Users\37544\Desktop\Work\053505\isp\lab_2\lab_2_1\obj\Debug\lab_2_1.csproj.CoreCompileInputs.cache
+C:\Users\37544\Desktop\Work\053505\isp\lab_2\lab_2_1\obj\Debug\lab_2_1.exe
+C:\Users\37544\Desktop\Work\053505\isp\lab_2\lab_2_1\obj\Debug\lab_2_1.pdb
