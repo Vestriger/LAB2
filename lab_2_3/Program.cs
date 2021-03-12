@@ -65,6 +65,9 @@ namespace lab_2_3
                     }
 
                     break;
+                default:
+                    Console.WriteLine("Wrong language");
+                    break;
             }
         }
     }
